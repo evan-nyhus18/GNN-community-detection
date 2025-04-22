@@ -1,0 +1,6 @@
+torch>=2.0.1                    # PyTorch core
+torch-geometric>=2.4.0          # Graph neural network layers
+numpy>=1.25.0                   # array operations
+scikit-learn>=1.2.2             # TSNE & evaluation metrics
+matplotlib>=3.8.0               # plotting
+notebook>=6.5.0                 # Jupyter support
